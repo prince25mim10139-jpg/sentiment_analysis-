@@ -1,0 +1,7 @@
+happy:happy
+excited:happy
+love:happy
+safe:happy
+sad:sad
+fearful:fear
+angry:anger
